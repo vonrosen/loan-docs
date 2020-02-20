@@ -1,6 +1,6 @@
 # Mortage Calculator App
 
-An application to calculate the maximum loan amount for a given payment and interest rates and save user queries.
+An application to calculate the maximum loan amount for a given payment and interest rates and saves user queries.
 
 ## Microservices
 
