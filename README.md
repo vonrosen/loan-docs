@@ -15,4 +15,4 @@ Spring-boot user input logging service that publishes to RabbitMQ.
 ### [User Request Log Eventing Service](https://github.com/vonrosen/user-request-log-eventing-service)
 Spring-boot user input logging service that consumes from RabbitMQ, persists user requests, and provides and API to read user requests from the persistence store.
 
-![Mortage App Diagram](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Mortage App Diagram](https://storage.cloud.google.com/www.loanval.com/mortgate-app-diagram.png "Mortgate App Diagram")
