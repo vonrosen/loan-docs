@@ -7,7 +7,7 @@ An application to calculate the maximum loan amount for a given payment and inte
 ### [Loan UI](https://github.com/vonrosen/loan-ui)
 React front-end.
 ### [Loan Service](https://github.com/vonrosen/loan-service)
-Spring-boot loan caluctation API.
+Spring-boot loan calculation API.
 ### [User Service](https://github.com/vonrosen/user-service)
 Spring-boot user persistence and retrieval API.
 ### [User Request Log Service](https://github.com/vonrosen/user-request-log-service)
