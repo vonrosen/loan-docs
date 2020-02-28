@@ -1,6 +1,6 @@
 # Mortage Calculator App
 
-[Mortgage Calculator](http://www.loanval.com)
+[http://www.loanval.com](http://www.loanval.com)
 
 An application that calculates the maximum loan amount for a given payment and interest rates and saves user queries.
 
